@@ -1,7 +1,7 @@
 # Project stuff
 logs
 figures
-models
+
 
 # Tensorboard logs directory
 *runs
